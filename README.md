@@ -36,3 +36,7 @@
 <a href="https://t.me/aakashpadhiyar">
     <img alt="Telegram aakash padhiyar" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>
+
+[Repl.it/aakashpadhiyar](https://repl.it/@aakashpadhiyar/beginners#index.js)
+***
+[SoftSkills Notes](https://repl.it/@aakashpadhiyar/beginners#Softskills%20for%20beginnet.txt)
